@@ -1,4 +1,4 @@
 module CCryptoOpenSSL {
-    umbrella "/Users/cory/dev/git/hws_vapor_million_hairs/.build/checkouts/crypto.git-8691478854828997824/Sources/CCryptoOpenSSL/include"
+    umbrella "/Users/cory/dev/git/vapor/hws_vapor_million_hairs/.build/checkouts/crypto.git-8691478854828997824/Sources/CCryptoOpenSSL/include"
     export *
 }
